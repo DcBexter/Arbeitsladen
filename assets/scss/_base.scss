@@ -1,0 +1,10 @@
+@import 'vars';
+
+html {
+  color:      $color;
+  background: $backgroundColor;
+  div, p, article {
+    margin:  $margin;
+    padding: $padding;
+  }
+}
